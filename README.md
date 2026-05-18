@@ -1,2 +1,29 @@
-# IPL-Data-Analysis
-Analyzed IPL datasets using Python and Jupyter Notebook to perform Exploratory Data Analysis (EDA) and create data visualizations for team performance, player statistics, and match insights.
+# IPL Data Analysis using Python
+
+This project performs Exploratory Data Analysis (EDA) on IPL datasets using Python and Jupyter Notebook.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Jupyter Notebook
+
+## Project Features
+- Team performance analysis
+- Top batsman and bowler analysis
+- Toss impact analysis
+- Match winning trends
+- Data visualization using graphs and charts
+
+## Learning Outcomes
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Sports Data Analytics
+
+
+## Author
+Sneha Shrivastava
